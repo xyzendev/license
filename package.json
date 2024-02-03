@@ -1,0 +1,27 @@
+{
+  "name": "@xyzendev/license",
+  "version": "1.0.0",
+  "description": "Lisense @xyzendev",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyzendev/license.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xyzendev/license/issues"
+  },
+  "homepage": "https://github.com/xyzendev/license#readme",
+  "keywords": [
+    "xyzendev",
+    "license"
+  ],
+  "author": "Muhammad Adriansyah - xyzendev",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
